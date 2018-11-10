@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CleanArchitecture</string>
+    <string name="ingresa_un_nombre">Ingresa un nombre</string>
+    <string name="nombre_shared">Nombre shared:</string>
+    <string name="si_se_pudo">Si se  pudo</string>
+    <string name="name_error">Error en el nombre</string>
+    <string name="error">Error</string>
+</resources>
